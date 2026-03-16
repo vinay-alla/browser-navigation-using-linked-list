@@ -101,15 +101,6 @@ This project demonstrates:
 
 ---
 
-## Author
-
-**Y.S. Ranganath Reddy Muttumulla**
-
-First Year Student  
-Anurag University  
-Aspiring Software Developer
-
----
 
 ## Future Improvements
 
